@@ -1,0 +1,13 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+#bacc{
+	width: 100%;
+	 height:100%;
+	 position: absolute; 
+	 z-index: 1;
+	  background-color: white;
+	   opacity: .9;
+	    filter: blur(100px);
+}
